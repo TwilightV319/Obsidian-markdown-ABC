@@ -26,6 +26,9 @@ $$
 
 极其欢迎投稿优质插件推荐。
 
+## 4 科大Obsidian使用者,有多端同步需求
+可参考[[科大云盘 WebDAV 多端同步指南 -Ver1.1]],通过每个人都有的科大云盘和其自带的 WebDAV 实现多端同步和云存档
+
 ---
 
 <p align="right">（本文在 Obsidian 内书写，由 Export to image 插件导出）</p>
