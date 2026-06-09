@@ -29,3 +29,4 @@ $$
 ---
 
 <p align="right">（本文在 Obsidian 内书写，由 Export to image 插件导出）</p>
+<p align="right">可以下载文件并在Obsidian中打开以获得完整超链接等体验</p>

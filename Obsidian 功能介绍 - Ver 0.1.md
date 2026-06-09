@@ -1,6 +1,7 @@
 $$
 \boldsymbol{\because\ \therefore\ \sim\ \otimes}
 $$
+
 贴一份官网的[术语表](https://publish.obsidian.md/help-zh/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E6%9C%AF%E8%AF%AD%E8%A1%A8). 下面的很多东西会在里面出现 (不过我们会解释的).
 
 目录:
