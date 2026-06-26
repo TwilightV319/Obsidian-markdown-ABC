@@ -189,21 +189,21 @@ print("Hello World!")
 # 四: 其他格式
 ## 1 图片格式
 ### 1.1 基本功能
-在 Obsidian 里你只需要按一下 `Ctrl + V` 就可以粘贴图片了, 很简单.[^5] 例如: ![[NSMSNM.jpg]]
-在源码里展现为: `![[NSMSNM.jpg]]`. 其语法**嵌入**会在 [[Obsidian 功能介绍 - Ver 0.1]] 内提到.
+在 Obsidian 里你只需要按一下 `Ctrl + V` 就可以粘贴图片了, 很简单.[^5] 例如: ![NSMSNM.jpg](./assets/Markdown%20%E6%8C%87%E5%8D%97%20-%20Ver%201.3/NSMSNM.jpg)
+在源码里展现为: `![[NSMSNM.jpg]]`. 其语法**嵌入**会在 [Obsidian 功能介绍 - Ver 0.1](./Obsidian%20%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D%20-%20Ver%200.1.md) 内提到.
 ### 1.2 控制大小
 `![[NSMSNM.jpg|400]]`, 竖线后面写上宽度就能控制宽度了! 单位是 px
-![[NSMSNM.jpg|200]]
+![NSMSNM.jpg](./assets/Markdown%20%E6%8C%87%E5%8D%97%20-%20Ver%201.3/NSMSNM.jpg)
 ## 2 超链接
 ### 2.1 <font color="#7030a0">Wiki Links*</font>
 **这是 Obsidian 独有的功能, 若没有, 需要在设置里打开.**
-**关于其详细用法, 请见 [[Obsidian 功能介绍 - Ver 0.1|Obsidian 功能介绍#二 Wiki Links]].**
+**关于其详细用法, 请见 [Obsidian 功能介绍#二 Wiki Links](./Obsidian%20%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D%20-%20Ver%200.1.md#二-wiki-links).**
 
 格式为: `[[链接]]`
-展现为:  [[另一个文件]]. 此时, 点击即可跳转到你所链接的文件.
+展现为:  [另一个文件](./%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6.md). 此时, 点击即可跳转到你所链接的文件.
 ### 2.2 嵌入文件
 `![[另一个文件]]`
-![[另一个文件]]
+[另一个文件](./%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6.md)
 ### 2.3 链接网址
 `[点此查看指南](https://publish.obsidian.md/help-zh/快速链接/笔记链接)`
 展现为: [点此查看指南](https://publish.obsidian.md/help-zh/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E9%93%BE%E6%8E%A5%E7%AC%94%E8%AE%B0)
